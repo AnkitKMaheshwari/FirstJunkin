@@ -8,6 +8,8 @@ public class FirstJunkinTest {
 	public void firstTest()
 	{
 		System.out.println("Hello junkins");
+		System.out.println("It is branch b1");
+		
 	}
 	
 	
