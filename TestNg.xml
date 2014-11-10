@@ -3,7 +3,6 @@
 <suite name="A">
 <test name="FirefoxTest">
 <classes>
-<class name="junkinProject1.FirstJunkinTest"></class>
 </classes>
 </test>
 

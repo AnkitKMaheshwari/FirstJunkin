@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="A" duration-ms="37" started-at="2014-11-10T07:08:35Z" finished-at="2014-11-10T07:08:35Z">
+  <suite name="A" duration-ms="41" started-at="2014-11-10T07:41:37Z" finished-at="2014-11-10T07:41:37Z">
     <groups>
     </groups>
-    <test name="FirefoxTest" duration-ms="37" started-at="2014-11-10T07:08:35Z" finished-at="2014-11-10T07:08:35Z">
+    <test name="FirefoxTest" duration-ms="41" started-at="2014-11-10T07:41:37Z" finished-at="2014-11-10T07:41:37Z">
       <class name="junkinProject1.FirstJunkinTest">
-        <test-method status="PASS" signature="firstTest()[pri:0, instance:junkinProject1.FirstJunkinTest@11bbf1ca]" name="firstTest" duration-ms="21" started-at="2014-11-10T12:38:35Z" finished-at="2014-11-10T12:38:35Z">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:junkinProject1.FirstJunkinTest@1d2940b3]" name="firstTest" duration-ms="16" started-at="2014-11-10T13:11:37Z" finished-at="2014-11-10T13:11:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
