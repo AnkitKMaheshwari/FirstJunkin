@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="A" duration-ms="49" started-at="2014-11-07T11:28:43Z" finished-at="2014-11-07T11:28:43Z">
+    <groups>
+    </groups>
+    <test name="FirefoxTest" duration-ms="49" started-at="2014-11-07T11:28:43Z" finished-at="2014-11-07T11:28:43Z">
+      <class name="junkinProject1.FirstJunkinTest">
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:junkinProject1.FirstJunkinTest@100c62c8]" name="firstTest" duration-ms="24" started-at="2014-11-07T16:58:43Z" finished-at="2014-11-07T16:58:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+      </class> <!-- junkinProject1.FirstJunkinTest -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- A -->
+</testng-results>
